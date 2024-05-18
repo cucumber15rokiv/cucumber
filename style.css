@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+
+header h1{
+	color:#B61BC9;
+	margin: 5px;
+	margin-bottom: 0px;
+	margin-top: 8px;
+	
+}
+header{
+	text-align: center;
+	background-image: url(konf.webp);
+}
+	
+	
+header p{
+  margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	margin: 50px;
+	font-size: 18px;
+	color: MediumVioletRed	;
+
+	
+}
+nav{
+	margin-top: 18px;
+	border-bottom: 1px solid MistyRose;
+	border-top: 1px solid MistyRose;
+	padding: 5px;
+	background-color:Snow ;
+	
+
+	
+}
